@@ -9,7 +9,7 @@ python :)
 
 Install
 =======
-To install:
-1. python setup.py build
-2. sudo python setup.py install
+To *install*:
+1) python setup.py build
+2) sudo python setup.py install
 
